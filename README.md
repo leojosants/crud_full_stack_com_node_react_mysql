@@ -1,2 +1,2 @@
-# CRUD_Full_Stack_com_Node_React_MySQL
+# CRUD Full Stack com Node, React e MySQL
  Cadastro de usuários
